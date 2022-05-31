@@ -6,5 +6,7 @@ public class GitLearn {
         System.out.println("clone operation");
         System.out.println("dev 分支操作");
         System.out.println("合并冲突");
+        System.out.println("1111");
+        System.out.println("2222");
     }
 }
