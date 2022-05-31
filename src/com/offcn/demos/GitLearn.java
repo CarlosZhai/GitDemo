@@ -5,5 +5,6 @@ public class GitLearn {
         System.out.println("Git Learn!");
         System.out.println("clone operation");
         System.out.println("dev 分支操作");
+        System.out.println("合并冲突测试");
     }
 }
