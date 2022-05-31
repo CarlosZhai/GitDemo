@@ -8,5 +8,7 @@ public class GitLearn {
         System.out.println("合并冲突");
         System.out.println("1111");
         System.out.println("2222");
+        System.out.println("远仓添加1111");
+        System.out.println("远仓添加2222");
     }
 }
